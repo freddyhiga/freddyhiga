@@ -9,8 +9,11 @@ I'm a Computer Programming graduate from Humber College with a background in gra
 - 🛠️ Building RESTful APIs and integrating databases into web applications.
 - 🌱 Continuously learning and exploring software development best practices.
 - 🎯 Looking for an opportunity to contribute to a development <br>
-  team and grow as a software developer.
+  team and grow as a software developer. 
 - Reach out to me at: <a href="freddyhiga@gmail.com">freddyhiga@gmail.com</a>
+
+<h2>Social Media</h2>
+<a href="https://www.linkedin.com/in/freddyhiga/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@freddyhiga"/></a>
 
 <h2>My Skills include</h2>
 
