@@ -60,5 +60,3 @@ I'm a Computer Programming graduate from Humber College with a background in gra
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=36BCF7&size=22&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting+my+profile!+👋" alt="Thanks for visiting my profile!" />
 </p>
-
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
