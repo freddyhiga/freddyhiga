@@ -1,6 +1,8 @@
 <h1 align="center"><b>Hi , I'm Freddy Higa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 350px>&nbsp;***About me***
+***About me***
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width ="350">
 
 I'm a Computer Programming graduate from Humber College with a background in graphic design. My interest in technology led me to pursue software development, where I enjoy building applications and solving problems through code.
 - ☕ Working with Java and Spring Boot to develop backend applications.
