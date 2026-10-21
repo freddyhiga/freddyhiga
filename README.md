@@ -13,7 +13,7 @@ I'm a Computer Programming graduate from Humber College with a background in gra
 - Reach out to me at: <a href="freddyhiga@gmail.com">freddyhiga@gmail.com</a>
 
 <h2>Social Media</h2>
-<a href="https://www.linkedin.com/in/freddyhiga/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@freddyhiga"/></a>
+<a href="https://www.linkedin.com/in/freddyhiga/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@freddyhiga"/></a>
 
 <h2>My Skills include</h2>
 
@@ -56,3 +56,9 @@ I'm a Computer Programming graduate from Humber College with a background in gra
 <h2>Most Used Languages</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyhiga&layout=compact)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=36BCF7&size=22&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting+my+profile!+👋" alt="Thanks for visiting my profile!" />
+</p>
+
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
