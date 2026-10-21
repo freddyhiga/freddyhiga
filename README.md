@@ -1,12 +1,13 @@
 <h1 align="center"><b>Hi , I'm Freddy Higa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2>About Me</h2>
-<p>I'm a Computer Programming graduate from Humber College with a background in graphic design. My interest in technology led me to pursue software development, where I enjoy building applications and solving problems through code.</p>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 350px>&nbsp;***About me***
 
+I'm a Computer Programming graduate from Humber College with a background in graphic design. My interest in technology led me to pursue software development, where I enjoy building applications and solving problems through code.
 - ☕ Working with Java and Spring Boot to develop backend applications.
 - 🛠️ Building RESTful APIs and integrating databases into web applications.
 - 🌱 Continuously learning and exploring software development best practices.
 - 🎯 Looking for an opportunity to contribute to a development team and grow as a software developer.
+- Reach out to me at: <a href="freddyhiga@gmail.com">freddyhiga@gmail.com</a>
 
 <h2>My Skills include</h2>
 
@@ -46,8 +47,6 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </span> 
 
-<h2>Github stats</h2> 
+<h2>Most Used Languages</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=freddyhiga&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/freddyhiga)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=freddyhiga&theme=material-palenight)](https://github.com/freddyhiga)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyhiga&layout=compact)
