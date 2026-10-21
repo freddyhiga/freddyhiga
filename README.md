@@ -2,13 +2,14 @@
 
 ***About me***
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width ="350">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width ="350"> 
 
 I'm a Computer Programming graduate from Humber College with a background in graphic design. My interest in technology led me to pursue software development, where I enjoy building applications and solving problems through code.
 - ☕ Working with Java and Spring Boot to develop backend applications.
 - 🛠️ Building RESTful APIs and integrating databases into web applications.
 - 🌱 Continuously learning and exploring software development best practices.
-- 🎯 Looking for an opportunity to contribute to a development team and grow as a software developer.
+- 🎯 Looking for an opportunity to contribute to a development <br>
+  team and grow as a software developer.
 - Reach out to me at: <a href="freddyhiga@gmail.com">freddyhiga@gmail.com</a>
 
 <h2>My Skills include</h2>
