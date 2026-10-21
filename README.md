@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 <p>I'm a Computer Programming graduate from Humber College with a background in graphic design. My interest in technology led me to pursue software development, where I enjoy building applications and solving problems through code.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=freddyhiga" alt="freddyhiga" /> </p>
 
 - ☕ Working with Java and Spring Boot to develop backend applications.
 - 🛠️ Building RESTful APIs and integrating databases into web applications.
